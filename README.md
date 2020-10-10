@@ -27,9 +27,10 @@ Please install the following tools and libraries:
 This program is confirmed running successfully in the following environments:
 
 * Windows
-	* Windows 10
+	* Windows 10 x64
 	* CMake 3.17.1
 	* Visual Studio 2019
+	* OpenCV 4.3.0 with VTK 8.0
 
 ***
 
